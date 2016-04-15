@@ -1,3 +1,3 @@
 # Hello-world
 new project 
-im a learner
+im a learner in strathmore 
